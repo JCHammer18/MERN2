@@ -112,7 +112,6 @@ export default class CreateExercise extends Component {
                 <label>Date: </label>
                 <div>
                   <DatePicker
-                    dateFormat="yyyy/MM/dd"
                     selected={this.state.date}
                     onChange={this.onChangeDate}
                   />
