@@ -7,7 +7,7 @@ import Navbar from "./components/navbar";
 import ExercisesList from "./components/exercises-list";
 import EditExercises from "./components/edit-exercises";
 import CreateExercises from "./components/create-exercises";
-import CreateUsers from "./components/create-users"
+import CreateUsers from "./components/create-users";
 
 function App() {
   return (
